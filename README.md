@@ -23,5 +23,3 @@ A Python-based web application that analyzes resumes against job descriptions an
 2. Install dependencies using `pip install -r requirements.txt`.
 3. Run `python -m streamlit run app.py`.
 
-## Project Purpose
-Built to practice Python programming, NLP-related text analysis, and interactive dashboard development.
